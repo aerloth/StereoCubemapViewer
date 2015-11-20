@@ -1,0 +1,8 @@
+D:\_git\OpenTKOculusDemo\bin\Debug\SimpleDemo.exe.config
+D:\_git\OpenTKOculusDemo\bin\Debug\SimpleDemo.exe
+D:\_git\OpenTKOculusDemo\bin\Debug\SimpleDemo.pdb
+D:\_git\OpenTKOculusDemo\bin\Debug\OculusWrap.dll
+D:\_git\OpenTKOculusDemo\bin\Debug\OpenTK.dll
+D:\_git\OpenTKOculusDemo\bin\Debug\OpenTK.xml
+D:\_git\OpenTKOculusDemo\obj\Debug\SimpleDemo.exe
+D:\_git\OpenTKOculusDemo\obj\Debug\SimpleDemo.pdb

@@ -1,0 +1,3 @@
+D:\_git\OpenTKOculusDemo\bin\Debug\SimpleDemo.exe.config
+D:\_git\OpenTKOculusDemo\obj\Debug\SimpleDemo.exe
+D:\_git\OpenTKOculusDemo\obj\Debug\SimpleDemo.pdb
